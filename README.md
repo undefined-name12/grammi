@@ -6,7 +6,6 @@
 [![Docker Listo](https://img.shields.io/badge/Docker-Ready-blue.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3.x-blue.svg)](https://www.sqlalchemy.org/)
 [![Alembic](https://img.shields.io/badge/Alembic-1.7-orange.svg)](https://alembic.sqlalchemy.org/en/latest/)
-[![asyncio](https://img.shields.io/badge/asyncio-3. 11-azul.svg)](https://docs.python.org/3/library/asyncio.html)
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-green.svg)](https://www.sqlite.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-v1.21-azul.svg?logo=numpy&logoColor=blanco)](https://numpy.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-v4.5.1-azul.svg?logo=opencv&logoColor=blanco)](https://opencv.org/)
