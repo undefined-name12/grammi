@@ -130,22 +130,6 @@ Excluido
 └── .env
 ```
 
-## ☕ Apoya mi trabajo
-
-[![Invítame a un café](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?logo=kofi)](https://buymeacoffee.com/max.v.zaikin)
-[![Dona](https://img.shields.io/badge/Donate-orange?logo=paypal)](próximamente)
-
-Si este proyecto te resulta útil o valoras mi compromiso con el desarrollo ético, ¡considera invitarme a un café o hacer una donación!
-
-Tu apoyo me ayuda a seguir trabajando en proyectos como este y a contribuir a un entorno online positivo. 🙏
-
-No olvides:
-
-- ⭐ Dale a este proyecto una estrella en GitHub
-- 👍 Dale a "Me gusta" y compártelo si te resulta útil
-- 👔 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/maxzaikin)
-- 📢 Suscríbete a mi [canal de Telegram](https://t.me/makszaikin) para estar al día de las novedades y las últimas noticias
-
 ## 🕊️ Mi visión para un Telegram más seguro
 
 Creo en el poder de Telegram para la comunicación positiva y la creación de comunidad. A través de este proyecto, busco explorar maneras de contribuir a un ecosistema de Telegram más seguro y confiable. Me comprometo a desarrollar herramientas y promover prácticas que ayuden a los usuarios a mantenerse seguros e informados.
