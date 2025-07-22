@@ -1,12 +1,3 @@
-"""
-tgrambuddy/src/bot/features/imgbw/imgbw_router.py
-
-This module defines router for convert image to b&w request handling using the Aiogram framework.
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
-"""
 from aiogram import (
     Router,
     F
