@@ -2,10 +2,6 @@
 tgrambuddy/src/bot/features/imgupload/imgupload_callback.py
 
 Handles callback queries for the image upload feature.
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
 """
 from pathlib import Path
 from aiogram.types import CallbackQuery
