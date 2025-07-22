@@ -2,10 +2,6 @@
 tgrambuddy/src/bot/features/onboarding/start_router.py
 
 This module defines router for /start command handler classusing the Aiogram framework. 
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
 """
 from aiogram import Router
 from aiogram.filters import Command
