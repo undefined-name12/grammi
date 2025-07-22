@@ -1,13 +1,5 @@
 """
 tgrambuddy/src/bot/features/onboarding/start_handler.py
-
-This module defines /start command handler classusing the Aiogram framework. 
-When a user initiates the bot with the `/start` command, 
-the job of this handler is repond with welcome instructions.
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
 """
 import os
 import shutil
