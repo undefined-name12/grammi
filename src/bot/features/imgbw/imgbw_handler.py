@@ -1,12 +1,3 @@
-"""
-tgrambuddy/src/bot/features/imgbw/imgbw_handler.py
-
-...
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
-"""
 import logging
 from pathlib import Path
 import cv2
