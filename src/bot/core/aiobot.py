@@ -1,14 +1,3 @@
-""" tgrambuddy/src/bot/core/aiobot.py
-
-aiobot.py defines the AioBot class, which encapsulates the logic for
-interacting with the Telegram Bot API using the aiogram library.
-It handles initialization of the bot and dispatcher, registration of
-message handlers, and the main event polling loop.
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
-"""
 import asyncio
 import logging
 from aiogram import (
