@@ -1,11 +1,3 @@
-""" tgrambuddy/main.py
-
-main.py is a main entry point to tgrambuddy solution
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
-"""
 import os
 import sys
 import asyncio
