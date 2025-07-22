@@ -1,11 +1,5 @@
 """
 tgrambuddy/src/bot/features/imgupload/imgupload_handler.py
-
-...
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
 """
 import os
 import logging
