@@ -1,8 +1,3 @@
-"""
-tgrambuddy/src/bot/features/onboarding/start_router.py
-
-This module defines router for /start command handler classusing the Aiogram framework. 
-"""
 from aiogram import Router
 from aiogram.filters import Command
 from aiogram.types import Message
