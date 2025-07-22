@@ -1,6 +1,3 @@
-"""
-tgrambuddy/src/bot/features/imgupload/imgupload_handler.py
-"""
 import os
 import logging
 from pathlib import Path
