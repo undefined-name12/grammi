@@ -1,8 +1,3 @@
-"""
-tgrambuddy/src/bot/features/imgupload/imgupload_callback.py
-
-Handles callback queries for the image upload feature.
-"""
 from pathlib import Path
 from aiogram.types import CallbackQuery
 from src.bot.core.localization import (
