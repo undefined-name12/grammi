@@ -1,8 +1,3 @@
-"""
-tgrambuddy/src/bot/features/imgbw/imgbw_callback.py
-
-Handles callback queries for the image bw feature.
-"""
 import os
 from pathlib import Path
 from aiogram.types import CallbackQuery
