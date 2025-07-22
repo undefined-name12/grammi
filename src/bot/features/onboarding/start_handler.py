@@ -1,6 +1,3 @@
-"""
-tgrambuddy/src/bot/features/onboarding/start_handler.py
-"""
 import os
 import shutil
 import logging
