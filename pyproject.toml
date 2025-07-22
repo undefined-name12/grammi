@@ -1,5 +1,5 @@
 [project]
-name = "tgrambuddy"
+name = "grammi"
 version = "0.1.0"
 description = "Your way to manage your Telegram bot automation"
 readme = "README.md"
