@@ -2,10 +2,6 @@
 tgrambuddy/src/bot/features/imgbw/imgbw_callback.py
 
 Handles callback queries for the image bw feature.
-
-TgramBuddy - A solution for building and managing Telegram bots.
-Copyright (c) 2025 Maks V. Zaikin
-Released by 01-May-2025 under the MIT License.
 """
 import os
 from pathlib import Path
